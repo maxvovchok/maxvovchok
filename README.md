@@ -143,7 +143,15 @@
 
 <h2 align="center">My GitHub Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxvovchok&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/maxvovchok">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=maxvovchok&show_icons=true&bg_color=141321&title_color=d83a7c&icon_color=d8bd42&text_color=a6f8f3">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=maxvovchok&show_icons=true&bg_color=ffffff00&title_color=95D634&icon_color=82AAFF&text_color=545454">
+      <img alt="SalOne's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=maxvovchok&show_icons=true&bg_color=ffffff00&title_color=C3E88D&icon_color=89DDFF&text_color=EEFFFF">
+    </picture>
+  </a>
+</p>
 
 <hr/>
 
